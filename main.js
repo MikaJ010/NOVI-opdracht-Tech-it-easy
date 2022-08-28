@@ -18,7 +18,7 @@ const inventory = [
       ambiLight: false,
     },
     originalStock: 23,
-    sold: 2,
+    sold: 5,
   },
   {
     type: 'NH3216SMART',
